@@ -2,4 +2,4 @@
 #LAB-2 (https://github.com/2303A51704/AIML-2024-2025/blob/main/Lab02_AIML_.ipynb)  
 #LAB-3 (https://github.com/2303A51704/AIML-2024-2025/blob/main/Lab3_AIML.ipynb)  
 #LAB-4 (https://github.com/2303A51704/AIML-2024-2025/blob/main/Lab04_AIML_.ipynb)   
-#LAB-5 (https://github.com/2303A51704/AIML-2024-2025/blob/main/Lab05-AIML.ipynb.txt)
+#LAB-5 (https://github.com/2303A51704/AIML-2024-2025/blob/main/Lab05-AIML.ipynb)
